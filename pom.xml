@@ -40,7 +40,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>tasks-frontend</finalName>
+		<finalName>tasks</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
